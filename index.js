@@ -55,4 +55,3 @@ const percent = Math.round((correctAnswers / totalQuestions) * 100);
 
 console.log("Your score is", percent.toString() +  "%");
 console.log("You got", correctAnswers, "questions correct!")
-
